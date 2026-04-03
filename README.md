@@ -1,4 +1,4 @@
-# 🏥 Proactive Data Breach Risk Management in Healthcare
+# 🏥 Text Mining & Topic Classification of HHS Breach Reports
 <img width="5032" height="4000" alt="image" src="https://github.com/user-attachments/assets/11d3aa87-dfce-4421-b341-ec14c6216cf4" />
 
 ## 1. Background & Overview
